@@ -1,0 +1,9 @@
+# Python artifacts:
+*.pyc
+
+# Eclipse IDE:
+.project
+.pydevproject
+
+# PyCharm
+.idea
